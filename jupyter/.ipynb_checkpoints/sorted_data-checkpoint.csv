@@ -1,4 +1,4 @@
-,id,name,age,country,gender,income
+in,id,name,age,country,gender,income
 0,4,Maria Garcia,34.0,Spain,Female,0.0
 1,9,Carlos Ruiz,0.0,Mexico,Male,45000.0
 2,3,Alex,0.0,USA,Unknown,47000.0
