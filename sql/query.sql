@@ -1,11 +1,12 @@
 -- CREATE DATABASE student;
 use student;
+DROP TABLE IF EXISTS student;
 CREATE TABLE student(
     rollno INT,
     name VARCHAR(30),
     age INT
 );
-SHOW table;
+-- SHOW table;
 
 INSERT INTO student
 VALUES 
