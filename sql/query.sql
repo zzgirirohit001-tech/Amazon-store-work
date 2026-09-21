@@ -11,6 +11,6 @@ CREATE TABLE student(
 INSERT INTO student
 VALUES 
 (101,"adam",12),
-(102,"bob",14);
+(102,"bobby",14);
 
 SELECT * FROM student;
